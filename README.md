@@ -8,7 +8,7 @@ Install Fwtree.go using the go get command:
 
     $ go get github.com/hjr265/fwtree.go
 
-The only dependencies are the Go distribution.
+The only dependency is the Go distribution itself.
 
 ## Documentation
 
